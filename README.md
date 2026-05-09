@@ -1,16 +1,20 @@
-## Hi there 👋
+`*# Hi! 👋 I'm Adrian*`
 
-<!--
-**adrian-weber7/adrian-weber7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`*💡 Python developer with an interest in Backend development.*`
 
-Here are some ideas to get you started:
+`*## 🔧 My Hard Skills:*`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- `*Python, OOP, algorithms*`
+- `*Telegram, pyrogram*`
+- `*PyGame*`
+- `*Flask, REST API*`
+- `*SQLite*`
+
+`*## 📌 My Projects:*`
+
+- `*Telegram_Chatbot*`
+- `*SpeedTyping_CLI*`
+- `*Blog_page*`
+- `*Pygame_platformer*`
+
+`*📫 Contact: weberadrian40@gmail.com*`
